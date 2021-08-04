@@ -1,13 +1,4 @@
-# data approximating 13 star (I don't know which) near the centre of the galaxy
-# units are arcsecond distance from the black hole. Distance to BH ~ 8kpc.
-# This initial data corresponds to t = 1995.0200 (step = 1) in stars13.dat.
-# Length unites: each unit is an arcsecond distance from the black hole. The
-# center of our galaxy is about 8000 parsecs (or 8 kiloparsecs) from Earth. And
-# at that distance, 1 arcsecond is ~0.04 parsecs = 8000 astronomical units
-# (AU). [http://astro.uchicago.edu/cosmus/projects/UCLA_GCG/README.html]
-# Time is measures in years
-# Mass is measures in solar masses
-# 1:x 2:y 3:z 4:vx 5:vy 6:vz 7:mass
+# x, y, z, vx, vy, vz, mass
 0,0,0,0,0,0,4.3e6
 -0.149438,0.068367,-0.102779,0.001875,-0.03475,-0.0357,1.
 -0.028988,0.164717,0.134333,-0.011325,-0.0054,0.004375,1.
