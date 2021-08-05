@@ -31,7 +31,10 @@
    **Length units**: Each unit is an arcseconds distance from the
    black hole.  The center of our galaxy is about 8000 parsecs (or 8
    kiloparsecs) from Earth.  At that distance, 1 arcsecond is ~0.04
-   parsecs = 8000 astronomical units (AU).  Time is measures in years
-   Mass is measures in solar masses
+   parsecs = 8000 astronomical units (AU).
+
+   Time is measured in years.
+
+   Mass is measured in solar masses.
 
    http://astro.uchicago.edu/cosmus/projects/UCLA_GCG/README.html
