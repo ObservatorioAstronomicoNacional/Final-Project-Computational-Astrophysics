@@ -12,7 +12,7 @@
 
 ## Archivos
 
-1. [sun_earth.csv](sun_earth.svg)
+1. [sun_earth.csv](sun_earth.csv)
 
    Data for the Sun and Earth in SI units.
 
